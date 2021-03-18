@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">shutters bluetooth</string>
+
+    <string name="message_shutters_up_active">Raising the shutters...</string>
+    <string name="message_shutters_down_active">Lowering the shutters...</string>
+    <string name="message_shutters_inactive">Shutters stopped</string>
+
+    <string name="up_button_name">raise</string>
+    <string name="up_button_active_text">stop</string>
+    <string name="up_button_inactive_text">raise</string>
+
+    <string name="down_button_name">lower</string>
+    <string name="down_button_active_text">stop</string>
+    <string name="down_button_inactive_text">lower</string>
+
+    <string name="select_device_button">select device</string>
+    <string name="select_device_title">Select Device</string>
+
+    <string name="connect_button_name">connect</string>
+    <string name="disconnect_button_name">disconnect</string>
+</resources>
